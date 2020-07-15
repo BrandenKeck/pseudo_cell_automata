@@ -1,4 +1,4 @@
-# Pseudo_Cell_Automata - JHU 625.740 Final Project
+# Pseudo-Cellular Automata
 
 ## Snippet from Paper Introduction:
 
